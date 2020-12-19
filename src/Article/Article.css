@@ -1,0 +1,13 @@
+.article-frame {
+    padding: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: 0.5px;
+    background: linear-gradient(180deg, rgba(213, 213, 221, 0.06486344537815125) 13%, rgba(59, 114, 195, 0.7511379551820728) 89%);
+}
+
+.article-frame>p {
+    padding: 50px;
+    font-size: 20px;
+    letter-spacing: 0.9px;
+    line-height: 40px;
+}
