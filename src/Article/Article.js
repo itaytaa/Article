@@ -13,7 +13,7 @@ export default class Article extends Component {
             <div className="article-frame">
                 <h1>{this.props.title}  </h1>
                 <img src={this.props.url} />
-                <p>{this.props.content}</p>
+                <p>{this.props.children}</p>
               <CommentList/>
             </div>
         );
